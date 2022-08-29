@@ -1,0 +1,51 @@
+body{
+   padding: 30px;
+   background: url(/img/pizza.jpeg);
+   background-size: cover;
+   
+} 
+
+
+.box{
+   margin: 5% 50% 5% 5%;
+   padding: 20px;
+   background: rgba(5, 5, 5, 0.3);
+}
+h1{
+   font-size: 50px;
+   font-weight: bold;
+   color: white
+}
+
+h4{
+   font-size: 20px;
+   font-weight: 700;
+   color: white;
+}
+
+input{
+   margin: 20px 10px;
+   padding: 10px 30px;
+   font-size: 18px;
+}
+
+#small,
+#medium,
+#large{
+   border-radius: 10px;
+   background: rgb(215, 223, 201);
+   border: none;
+}
+
+#calculate{
+   background: red;
+   color:rgb(247, 243, 237);
+   border-radius: 30px;
+   border: none;
+   padding: 10px 30px;
+}
+
+label{
+   font-size: 25px;
+   color: white;
+}
